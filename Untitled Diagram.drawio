@@ -1,4 +1,4 @@
-<mxfile modified="2023-09-25T15:59:45.312Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="1Cv82-JgqlAgFtZftMRk" version="21.8.2" type="github">
+<mxfile modified="2023-09-25T16:01:11.919Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="BxdHKhrz7mJhbOkjfA0i" version="21.8.2" type="github">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
     <mxGraphModel dx="1434" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -41,10 +41,10 @@
           <mxGeometry x="490" y="291" width="42" height="55" as="geometry" />
         </mxCell>
         <mxCell id="c07P4ZYzcnsUTolsN5iu-46" value="AZURE DATA FACTORY" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="470" y="100" width="390" height="340" as="geometry" />
+          <mxGeometry x="470" y="100" width="440" height="320" as="geometry" />
         </mxCell>
         <mxCell id="c07P4ZYzcnsUTolsN5iu-47" value="AZURE" style="swimlane;" vertex="1" parent="c07P4ZYzcnsUTolsN5iu-46">
-          <mxGeometry x="-260" y="-50" width="940" height="510" as="geometry" />
+          <mxGeometry x="-260" y="-50" width="930" height="430" as="geometry" />
         </mxCell>
         <mxCell id="AcxdMaKK0mU5kZiv2lnr-9" value="Azure Blob&lt;br&gt;Storage&lt;br&gt;" style="aspect=fixed;html=1;perimeter=none;align=center;shadow=0;dashed=0;image;fontSize=12;image=img/lib/mscae/BlobBlock.svg;" parent="c07P4ZYzcnsUTolsN5iu-47" vertex="1">
           <mxGeometry x="150" y="245.5" width="62" height="53" as="geometry" />
